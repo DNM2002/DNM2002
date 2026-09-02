@@ -16,12 +16,3 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="28" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white" height="28" alt="AWS Amplify" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="28" alt="Adobe Illustrator" style="margin-right: 4px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>

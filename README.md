@@ -3,14 +3,15 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="dilshannm12345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dilshanmolligoda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/https://x.com/DNMM2002" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/https://www.reddit.com/user/D_Nayanajith-02/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/DNM2002" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">A passionate full-stack developer and AI enthusiast studying IT at the University of Moratuwa.
-</h3>**
+  <h3 align="left">A passionate full-stack developer and AI enthusiast studying IT at the University of Moratuwa.
+</h3> 
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **I’m currently working on FixZone – Smart Vehicle Service Center Management Platform using Next.js, Spring Boot, and PostgreSQL.**
-- 🌱 I'm currently learning: ** I’m currently learning AWS cloud services, Docker, and MCP for AI integration.**
-- 💬 Ask me about: **Ask me about building backends with Java/Hibernate & Node.js, crafting UIs with React, and database management.**
+- 💼 I'm currently working on: I’m currently working on FixZone – Smart Vehicle Service Center Management Platform using Next.js, Spring Boot, and PostgreSQL.
+- 🌱 I'm currently learning: I’m currently learning AWS cloud services, Docker, and MCP for AI integration.
+- 💬 Ask me about: Ask me about building backends with Java/Hibernate & Node.js, crafting UIs with React, and database management.
+- 🤝 I’m looking to collaborate on real-world projects involving full-stack development, AI solutions, and cloud services.
 
  **<h3 align="left">Skills</h3>**
 
